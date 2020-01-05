@@ -451,3 +451,35 @@ DEBUG - 2020-01-05 04:42:22 --> Global POST, GET and COOKIE data sanitized
 INFO - 2020-01-05 04:42:22 --> Input Class Initialized
 INFO - 2020-01-05 04:42:23 --> Language Class Initialized
 ERROR - 2020-01-05 04:42:23 --> 404 Page Not Found: Assets/img
+INFO - 2020-01-05 09:23:13 --> Config Class Initialized
+INFO - 2020-01-05 09:23:13 --> Hooks Class Initialized
+DEBUG - 2020-01-05 09:23:14 --> UTF-8 Support Enabled
+INFO - 2020-01-05 09:23:14 --> Utf8 Class Initialized
+INFO - 2020-01-05 09:23:15 --> URI Class Initialized
+INFO - 2020-01-05 09:23:16 --> Router Class Initialized
+INFO - 2020-01-05 09:23:17 --> Output Class Initialized
+INFO - 2020-01-05 09:23:17 --> Security Class Initialized
+DEBUG - 2020-01-05 09:23:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-05 09:23:18 --> Input Class Initialized
+INFO - 2020-01-05 09:23:18 --> Language Class Initialized
+INFO - 2020-01-05 09:23:19 --> Loader Class Initialized
+INFO - 2020-01-05 09:23:19 --> Helper loaded: url_helper
+INFO - 2020-01-05 09:23:20 --> Helper loaded: file_helper
+INFO - 2020-01-05 09:23:21 --> Helper loaded: security_helper
+INFO - 2020-01-05 09:23:21 --> Helper loaded: sinten_helper
+INFO - 2020-01-05 09:23:22 --> Database Driver Class Initialized
+INFO - 2020-01-05 09:23:24 --> Email Class Initialized
+DEBUG - 2020-01-05 09:23:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-01-05 09:23:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-05 09:23:26 --> Helper loaded: form_helper
+INFO - 2020-01-05 09:23:26 --> Form Validation Class Initialized
+INFO - 2020-01-05 09:23:26 --> Controller Class Initialized
+INFO - 2020-01-05 09:23:28 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\template/header.php
+INFO - 2020-01-05 09:23:29 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\template/public_item_nav.php
+INFO - 2020-01-05 09:23:29 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\template/navbar.php
+INFO - 2020-01-05 09:23:30 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\home/read.php
+INFO - 2020-01-05 09:23:30 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\home/index.php
+INFO - 2020-01-05 09:23:30 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\template/event.php
+INFO - 2020-01-05 09:23:30 --> File loaded: D:\xampp\htdocs\sincoff.com\application\views\template/footer.php
+INFO - 2020-01-05 09:23:31 --> Final output sent to browser
+DEBUG - 2020-01-05 09:23:31 --> Total execution time: 18.1148
